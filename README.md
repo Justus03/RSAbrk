@@ -1,2 +1,3 @@
 # RSAbrk
- I enjoyed playing with math to come up with this 😁
+ I enjoyed playing with math to come up with this 😁...
+This program is about factoring a PQ product where P and Q are both prime numbers
