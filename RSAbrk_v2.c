@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <tgmath.h>
 
-//#include <tgmath.h> // this header contains both math.h and complex.h and has been made to fit most mathematical needs
-
 #define DEG_RAD acos(-1)/180
 
 long RSAbrk(long long *pq, int *p, int *q)
