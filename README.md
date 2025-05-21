@@ -78,9 +78,3 @@ The `-lm` flag links the math library, which is required for `sqrt`, `log10l`, e
 * This is not suitable for cryptographic-grade RSA keys, but is perfect for educational exploration.
 
 ---
-
-## 📜 License
-
-This project is licensed under the **Creative Commons Attribution 4.0 International License**.
-
----
